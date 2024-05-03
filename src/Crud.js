@@ -11,7 +11,7 @@ function App(){
         setinputdata({...inputdata,[e.target.name]:e.target.value})
     }
  
- //neha
+
 //get method with id
  
     function getByID(e) {
@@ -33,11 +33,7 @@ function App(){
           settable([]);
         });
     }
-    //kiran
- //kerketta
- //MK.,NK,
- //somoo
- YHJGFUYGV
+ // kiran kerre
     //get method to display all users name  (directly clicking get Button)
     function getAll(e) {
       e.preventDefault();
